@@ -1,0 +1,21 @@
+
+body {
+    background-color: #333333;;
+}
+
+h4 {
+    color: white;
+}
+
+.footer { /* # == id */
+    background-color: #434445;
+    width: 100%;
+    float: left;
+    height: 140px;
+    text-align: center;
+    color: #a4a4a4;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 140px;
+}
+
